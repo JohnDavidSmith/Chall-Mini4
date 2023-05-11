@@ -30,10 +30,10 @@ $(function () {
  // Get the array of working hours from the container element
 var workingHours = $(".container-lg").data("hours").split(",");
 
-  for (var i = 0; i < workingHours.length  ; i++) {
+  for (var i = 0; i < workingHours.length ; i++) {
     var timeBlockEl = $("<div>").addClass("row time-block").attr("id", "hour-" + i);
     var hourEl = $("<div>").addClass("col-sm-1 hour").text(workingHours[i]);
-    var textAreaEl = $("<textarea>").addClass("col-sm-10 description");
+    var textAreaEl = $("<textarea>").addClass("col-sm-10 description").attr("id", "text" + i);
     var saveBtnEl = $("<button>").addClass("col-sm-1 saveBtn").html("<i class='fas fa-save'></i>");
 
     timeBlockEl.append(hourEl, textAreaEl, saveBtnEl);
