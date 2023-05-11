@@ -49,19 +49,19 @@ The following animation demonstrates the application functionality:
 ## Installation 
 
 * Doesn't need any instillation just add the events for each hour and press save button on the right side of each hour and you can remove or change any event by pressing the save button again.   
-* When you star the application the date in the head section will update automatically.
+* When you start the application the date in the head section will update automatically.
   
 
 ## Usage 
 
-* This application can be used for both working hours styles the 12 hours working shift from 5am to 5pm or for the normal business working day from 9am to 5pm.   
+* This application can be used for both working hours styles the 12 hours working shift from 5am to 5pm, 12am to 12pm or for the normal business working day hours from 9am to 5pm. Therefore, its scheduled for 24 hrs.    
 
 
-![Screenshot Code Quiz](./assets/Screenshot%20Code%20Quiz.png)
+![Screenshot Work Day Scheduler Calendar ](./assets/Screenshot%20Work%20Day%20Scheduler%20Calendar.png)
 
 * GitHub link to the Code Quiz Challenge.
 
-[The Code Quiz Challenge on GitHub](https://johndavidsmith.github.io/Mod4-Challenge/)
+[The Work Day Scheduler Calendar Challenge on GitHub](https://johndavidsmith.github.io/Chall-Mini4/)
 
 ## Credits
 
