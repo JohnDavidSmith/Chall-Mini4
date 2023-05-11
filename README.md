@@ -59,7 +59,7 @@ The following animation demonstrates the application functionality:
 
 ![Screenshot Work Day Scheduler Calendar ](./assets/Screenshot%20Work%20Day%20Scheduler%20Calendar.png)
 
-* GitHub link to the Code Quiz Challenge.
+* GitHub link to the work day scheduler calendar challenge.
 
 [The Work Day Scheduler Calendar Challenge on GitHub](https://johndavidsmith.github.io/Chall-Mini4/)
 
